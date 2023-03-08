@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header{
+ text-align: center;
+}
+
+img{
+  display: block;
+  margin: auto;
+}
+header a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rosybrown;
+}
+
+section#featured-property figure{
+  font-size: smaller;
+  text-align: center;
+}
+
+section#featured-property p{
+  
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 25px;
+  width: 800px;
+  margin: auto;
+}
+
+section#details div{ 
+width: 25%;
+float: left; 
+text-align: center;
+background-color: rosybrown;
+}
